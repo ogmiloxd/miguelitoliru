@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="3CDnuevo.css">
+</head>
+<body>
+    <table>
+        <tr>
+           <td colspan="3"><h1>GALERÍA DE MOTOS </h1></td> 
+        </tr>
+        <tr>
+           <td>  <p class="harry"> Historia de las motos: Las motocicletas surgieron a finales del siglo XIX. La primera moto, creada en 1885 por Gottlieb Daimler y Wilhelm Maybach, usaba un motor de combustión interna, marcando un hito en la movilidad personal. Las motocicletas, también conocidas como motos, son vehículos de dos ruedas diseñados para la movilidad rápida y eficiente. Desde su invención en el siglo XIX, han evolucionado para adaptarse a distintos usos, desde el transporte diario hasta la competición. Su versatilidad y diseño las hacen populares en todo el mundo. </p>
+            
+            </td> 
+           
+            <td><img class="arcoiris" src="motos1.jpeg" width="250"></td> 
+ 
+          <td>  <p class="harry"> Historia de las motos: Las motocicletas surgieron a finales del siglo XIX. La primera moto, creada en 1885 por Gottlieb Daimler y Wilhelm Maybach, usaba un motor de combustión interna, marcando un hito en la movilidad personal. Las motocicletas, también conocidas como motos, son vehículos de dos ruedas diseñados para la movilidad rápida y eficiente. Desde su invención en el siglo XIX, han evolucionado para adaptarse a distintos usos, desde el transporte diario hasta la competición. Su versatilidad y diseño las hacen populares en todo el mundo. </p>
+            
+            </td> 
+        </tr>
+        <tr>
+            <td><p class="harry"> Existen diferentes tipos de motos, cada una diseñada para necesidades específicas. Las deportivas ofrecen velocidad y rendimiento, mientras que las chopper destacan por su estilo relajado y personalizado. También están las motos de aventura y enduro, ideales para terrenos difíciles y viajes largos.
+                </p>
+                </td> 
+            <td><img class="arcoiris" src="motos2.jpeg" width="250"></td> 
+            
+
+
+            <td> <p class="harry"> Uno de los mayores atractivos de las motos es la sensación de libertad que brindan al conducir. Su tamaño compacto permite esquivar el tráfico con facilidad y encontrar estacionamiento sin problemas. Además, su bajo consumo de combustible las convierte en una opción económica y ecológica.
+
+A lo largo de los años, la tecnología en motocicletas ha avanzado considerablemente. Hoy en día, muchas incluyen sistemas de frenos ABS, control de tracción y suspensiones electrónicas. Incluso hay modelos eléctricos que buscan reducir la contaminación y mejorar la eficiencia energética. 
+                </p>
+                </td> 
+
+ 
+        </tr>
+        
+
+
+
+            <tr>
+            <td> <p class="harry"> El motociclismo no es solo un medio de transporte, sino también una pasión y un estilo de vida. Existen comunidades de motociclistas en todo el mundo que organizan eventos, rutas y encuentros. La camaradería entre quienes comparten esta afición es una de sus características más destacadas.
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos3.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> Sin embargo, conducir una moto también implica ciertos riesgos, por lo que la seguridad es fundamental. Usar casco, guantes y ropa protectora puede marcar la diferencia en caso de un accidente. Además, es importante respetar las normas de tránsito y conducir con precaución en todo momento.
+
+Las motos han sido protagonistas en la historia, el cine y la cultura popular. Iconos como Harley-Davidson y Ducati han dejado huella en la industria, mientras que películas como Easy Rider han inmortalizado la imagen del motociclista rebelde. Su impacto sigue vigente en la actualidad. 
+                </p>
+                </td> 
+                </tr> 
+   
+          
+
+
+            <tr>
+            <td> <p class="harry"> Ya sea por necesidad, diversión o pasión, las motocicletas seguirán siendo un símbolo de libertad y aventura. Con el avance de la tecnología, su evolución continuará ofreciendo nuevas experiencias a los conductores. Sin duda, las motos seguirán marcando el camino en el mundo del transporte.
+
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos4.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> La mecánica de las motos es un aspecto fascinante que ha evolucionado con el tiempo. Los motores pueden ser de dos o cuatro tiempos, cada uno con sus propias ventajas en potencia y eficiencia. Además, las transmisiones varían entre automáticas y manuales, dependiendo del modelo y su propósito.
+
+El mantenimiento de una moto es clave para su buen funcionamiento y seguridad. Cambiar el aceite regularmente, revisar la presión de las llantas y asegurarse de que los frenos estén en óptimas condiciones es esencial. Un mantenimiento adecuado prolonga la vida útil del vehículo y evita accidentes.
+                </p>
+                </td> 
+                </tr> 
+
+               
+
+
+              <tr>
+            <td> <p class="harry"> El equipo de protección es indispensable para cualquier motociclista. Además del casco, se recomienda usar chaqueta con protecciones, botas resistentes y guantes especiales. Todo esto no solo brinda seguridad, sino que también mejora la experiencia de conducción en diferentes condiciones climáticas.
+
+Existen motocicletas diseñadas para distintos tipos de terreno. Las motos de calle son ideales para el asfalto y el tráfico urbano, mientras que las de motocross están preparadas para saltos y terrenos irregulares. También hay motos de touring, pensadas para viajes largos con mayor comodidad.
+
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos5.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> El motociclismo deportivo es una disciplina que ha ganado gran popularidad en el mundo. Carreras como MotoGP, Superbike y el Rally Dakar ponen a prueba la habilidad de los pilotos y la potencia de las motos. Estas competencias han impulsado mejoras tecnológicas que luego se aplican en modelos comerciales.
+
+Además de la velocidad, algunas motos destacan por su diseño y exclusividad. Marcas como BMW, Triumph y Kawasaki han creado modelos icónicos con características únicas. Otras marcas, como Royal Enfield, mantienen un estilo clásico que atrae a quienes buscan una estética vintage.
+                </p>
+                </td> 
+                </tr> 
+
+
+
+
+
+
+ </table>
+</body>
+</html>

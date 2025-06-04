@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="3CDnuevo2.css">
+</head>
+<body>
+    <table>
+        <tr>
+           <td colspan="3"><h1>GALERÍA DE MOTOS EXCLUSIVAS </h1></td> 
+        </tr>
+        <tr>
+           <td>  <p class="harry"> Las motocicletas han evolucionado enormemente en los últimos años, y hoy en día existen modelos que combinan lujo, potencia y tecnología avanzada. Estas motos exclusivas están diseñadas para quienes buscan una experiencia única en la carretera, con materiales de alta calidad, rendimiento extremo y diseños impresionantes. Marcas como Ducati, MV Agusta, BMW, Harley-Davidson y Aston Martin han llevado la ingeniería y la estética a un nivel superior. </p>
+            
+            </td> 
+           
+            <td><img class="arcoiris" src="motos10.jpeg" width="250"></td> 
+ 
+          <td>  <p class="harry"> Entre las motos más exclusivas, destacan aquellas de producción limitada, con precios elevados y tecnologías derivadas del mundo de la competición. Estas motocicletas no solo son rápidas y potentes, sino que también incorporan materiales como fibra de carbono, titanio y aluminio de grado aeroespacial. Además, muchas cuentan con sistemas electrónicos avanzados que mejoran la seguridad y el desempeño en cualquier tipo de terreno. </p>
+            
+            </td> 
+        </tr>
+        <tr>
+            <td><p class="harry"> Uno de los modelos más impresionantes de los últimos años es la Ducati Superleggera V4, una moto que combina la herencia de las superbikes italianas con la más alta tecnología. Su chasis, basculante y ruedas están fabricados en fibra de carbono, lo que reduce el peso total a solo 152 kg. Su motor V4 de 998 cc genera más de 234 caballos de fuerza con el escape de competición.
+                </p>
+                </td> 
+            <td><img class="arcoiris" src="motos11.jpeg" width="250"></td> 
+            
+
+
+            <td> <p class="harry"> Este modelo es una edición limitada a 500 unidades, lo que la convierte en una de las motos más exclusivas de Ducati. Su aerodinámica está inspirada en la MotoGP, con alerones que generan carga aerodinámica para mejorar la estabilidad a alta velocidad. Además, cuenta con suspensiones Öhlins de última generación y frenos Brembo de alto rendimiento. Uno de los aspectos más llamativos de esta moto es su aerodinámica avanzada, con alas de fibra de carbono que generan más estabilidad en curvas y rectas. También incluye un paquete electrónico de última generación, con control de tracción, modos de conducción personalizados y quickshifter. Su construcción ligera y componentes premium la convierten en una de las motos más exclusivas del mundo. 
+                </p>
+                </td> 
+
+ 
+        </tr>
+        
+
+
+
+            <tr>
+            <td> <p class="harry"> EMV Agusta es una marca italiana que siempre ha destacado por sus diseños elegantes y su ingeniería de alto nivel. La Rush 1000 es una moto naked extrema, con un motor de 4 cilindros en línea y 208 caballos de fuerza. Su diseño agresivo, con una llanta trasera carenada y un escape de doble salida, la hace única en su categoría. Este modelo es una edición limitada a 300 unidades, lo que la convierte en una pieza de colección. Cuenta con componentes de primera calidad, como frenos Brembo Stylema, suspensión electrónica Öhlins y un sistema de escape de titanio que mejora el rendimiento del motor. Además, su instrumentación digital y su conectividad la hacen una moto moderna y tecnológica.
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos12.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> Sin embargo, conducir una moto también implica ciertos riesgos, por lo que la seguridad es fundamental. Usar casco, guantes y ropa protectora puede marcar la diferencia en caso de un accidente. Además, es importante respetar las normas de tránsito y conducir con precaución en todo momento.
+
+Las motos han sido protagonistas en la historia, el cine y la cultura popular. Iconos como Harley-Davidson y Ducati han dejado huella en la industria, mientras que películas como Easy Rider han inmortalizado la imagen del motociclista rebelde. Su impacto sigue vigente en la actualidad. 
+                </p>
+                </td> 
+                </tr> 
+   
+          
+
+
+            <tr>
+            <td> <p class="harry"> Para los amantes de las motos eléctricas exclusivas, la Harley-Davidson LiveWire es una opción que combina historia con innovación. Se trata de la primera motocicleta eléctrica de la marca, con un motor que entrega 105 caballos de fuerza y un impresionante torque instantáneo. Su aceleración de 0 a 100 km/h en menos de 3 segundos la hace comparable con las superbikes de combustión.
+
+A diferencia de otras Harley-Davidson, la LiveWire no tiene el clásico sonido de los motores V-Twin, pero ofrece una experiencia completamente nueva. Su batería tiene una autonomía de hasta 235 km en ciudad y se recarga rápidamente en estaciones de carga rápida. Además, incluye sistemas de seguridad avanzados como control de tracción, ABS en curva y suspensión Showa de alto rendimiento.
+
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos13.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> La mecánica de las motos es un aspecto fascinante que ha evolucionado con el tiempo. Los motores pueden ser de dos o cuatro tiempos, cada uno con sus propias ventajas en potencia y eficiencia. Además, las transmisiones varían entre automáticas y manuales, dependiendo del modelo y su propósito.
+
+El mantenimiento de una moto es clave para su buen funcionamiento y seguridad. Cambiar el aceite regularmente, revisar la presión de las llantas y asegurarse de que los frenos estén en óptimas condiciones es esencial. Un mantenimiento adecuado prolonga la vida útil del vehículo y evita accidentes.
+                </p>
+                </td> 
+                </tr> 
+
+               
+
+
+              <tr>
+            <td> <p class="harry"> Cuando una marca de automóviles de lujo como Aston Martin decide fabricar una motocicleta, el resultado es una obra de arte sobre ruedas. La AMB 001 es una moto de edición limitada con un diseño futurista y materiales exclusivos. Fabricada en colaboración con Brough Superior, esta moto tiene un motor bicilíndrico turboalimentado de 180 caballos de fuerza.
+
+                </p>
+                </td> 
+            
+
+            <td><img class="arcoiris" src="motos14.jpeg" width="250"></td> 
+            
+
+            <td> <p class="harry"> Su construcción en fibra de carbono y aluminio la hace extremadamente ligera y ágil. El diseño aerodinámico y sus líneas agresivas reflejan la identidad de Aston Martin, con detalles artesanales que la convierten en una joya de la ingeniería. Solo se fabricarán 100 unidades, lo que la hace una de las motos más exclusivas del mundo.
+                </p>
+                </td> 
+                </tr> 
+
+
+
+
+
+
+ </table>
+</body>
+</html>
